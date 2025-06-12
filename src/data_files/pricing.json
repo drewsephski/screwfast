@@ -1,38 +1,36 @@
-{
-  "title": "Simple, Transparent Pricing",
-  "subTitle": "Boost efficiency with ScrewFast's clear, value-driven plans.",
-  "badge": "Best value",
-  "thirdOption": "Enterprise Solutions?",
-  "btnText": "Get a Custom Quote",
-
-  "starterKit": {
-    "name": "Starter Kit",
-    "description": "Best option for DIY projects",
-    "price": "49",
-    "cents": ".00",
-    "billingFrequency": "USD / monthly",
+[
+  {
+    "title": "Free & Trial Tools",
+    "price": "Explore",
+    "btnTitle": "Browse Free Tools",
+    "btnURL": "/products?filter=free",
     "features": [
-      "Key hardware tools",
-      "Access to guides & tutorials",
-      "Standard support"
-    ],
-    "purchaseBtnTitle": "Get the Starter Kit",
-    "purchaseLink": "#"
+      "Access a variety of free SaaS tools.",
+      "Explore trial versions of premium software.",
+      "Perfect for startups and individual projects."
+    ]
   },
-
-  "professionalToolbox": {
-    "name": "Professional Toolbox",
-    "description": "Best for large scale uses",
-    "price": "89",
-    "cents": ".00",
-    "billingFrequency": "USD / monthly",
+  {
+    "title": "Premium AI Solutions",
+    "price": "View Deals",
+    "btnTitle": "Find AI Software",
+    "btnURL": "/products?category=ai",
     "features": [
-      "Premium tool selection",
-      "Priority support",
-      "Exclusive content & deals",
-      "Bulk order discounts"
+      "Unlock advanced AI capabilities.",
+      "Exclusive discounts on select platforms.",
+      "For businesses scaling with AI."
     ],
-    "purchaseBtnTitle": "Get the Professional Toolbox",
-    "purchaseLink": "#"
+    "featured": true
+  },
+  {
+    "title": "Web Dev Power Packs",
+    "price": "Discover",
+    "btnTitle": "Find Web Dev Kits",
+    "btnURL": "/products?category=webdev",
+    "features": [
+      "Comprehensive toolkits for developers.",
+      "Integrated platforms and services.",
+      "Boost your development workflow."
+    ]
   }
-}
+]
